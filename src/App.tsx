@@ -1,7 +1,8 @@
-import Home from './pages/home'
 import { ThemeProvider } from 'styled-components'
 import theme from './styles/theme'
 import GlobalStyle from './styles/GlobalStyles'
+
+import Home from './pages/home'
 
 
 function App() {
